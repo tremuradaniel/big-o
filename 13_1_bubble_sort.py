@@ -1,3 +1,6 @@
+# Bubble sort
+# is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order.
+
 list1 = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]
 list2 = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]
 
